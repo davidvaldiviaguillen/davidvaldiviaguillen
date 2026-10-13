@@ -1,16 +1,15 @@
-## Hi there 👋
+# David Valdivia Guillén
 
-<!--
-**davidvaldiviaguillen/davidvaldiviaguillen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack en Informa TD. Trabajo con Java, Node.js, TypeScript, Angular, React Native y Flutter.
 
-Here are some ideas to get you started:
+## Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Panel ITSM unificado](https://github.com/davidvaldiviaguillen/dashboard-itsm): incidencias de Redmine y Mantis en tiempo real. Angular 17 y Node.js.
+- [Foco](https://github.com/davidvaldiviaguillen/Foco): gestión de tareas con backend propio. React Native y Expo.
+- [RecallApp](https://github.com/davidvaldiviaguillen/RecallApp): gestión de tareas con fotos e informes. Flutter y Dart.
+
+## Contacto
+
+- Portfolio: https://davidvaldiviaguillen.github.io
+- LinkedIn: https://www.linkedin.com/in/david-valdivia-guillén
+- Correo: dvgdavid1@gmail.com
